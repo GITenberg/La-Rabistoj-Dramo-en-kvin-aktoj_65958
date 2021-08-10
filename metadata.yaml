@@ -1,0 +1,44 @@
+_repo: La-Rabistoj-Dramo-en-kvin-aktoj_65958
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Zamenhof, L. L. (Ludwik Lejzer)
+    aliases:
+    - Zamenhof, Ludovic Lazarus
+    - Zamenhof, Lazaro Ludoviko
+    - Zamenhof, Ludwik Lazar
+    birthdate: 1859
+    deathdate: 1917
+    gutenberg_agent_id: '3934'
+    url: http://www.gutenberg.org/2009/agents/3934
+    wikipedia:
+    - https://eo.wikipedia.org/wiki/L._L._Zamenhof
+    - https://en.wikipedia.org/wiki/L._L._Zamenhof
+creator:
+  author:
+    agent_name: Schiller, Friedrich
+    aliases:
+    - Schiller, Friedrich von
+    - Schiller, Johann Christoph Friedrich von
+    birthdate: 1759
+    deathdate: 1805
+    gutenberg_agent_id: '289'
+    url: http://www.gutenberg.org/2009/agents/289
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Friedrich_Schiller
+    - https://en.wikipedia.org/wiki/Friedrich_Schiller
+description: ''
+gutenberg_issued: '2021-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65958'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'La Rabistoj
+
+  Dramo en kvin aktoj'
+url: http://www.gutenberg.org/ebooks/65958
