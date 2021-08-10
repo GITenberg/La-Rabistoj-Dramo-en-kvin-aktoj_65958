@@ -1,5 +1,5 @@
 _repo: La-Rabistoj-Dramo-en-kvin-aktoj_65958
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Zamenhof, L. L. (Ludwik Lejzer)
@@ -14,6 +14,9 @@ contributor:
     wikipedia:
     - https://eo.wikipedia.org/wiki/L._L._Zamenhof
     - https://en.wikipedia.org/wiki/L._L._Zamenhof
+covers:
+- cover_type: archival
+  image_path: 65958-h/images/cover.jpg
 creator:
   author:
     agent_name: Schiller, Friedrich
@@ -28,6 +31,8 @@ creator:
     - https://de.wikipedia.org/wiki/Friedrich_Schiller
     - https://en.wikipedia.org/wiki/Friedrich_Schiller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65958#La-Rabistoj-Dramo-en-kvin-aktoj
 gutenberg_issued: '2021-07-30'
 gutenberg_type: Text
 identifiers:
